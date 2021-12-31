@@ -1,0 +1,4 @@
+
+1 git add .
+git commit -m "meu primeiro commit"
+git push -u origin master
